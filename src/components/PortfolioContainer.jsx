@@ -4,7 +4,6 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Work from "./pages/Work";
 import Contact from "./pages/Contact";
-import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 
 export default function PortfolioContainer() {
